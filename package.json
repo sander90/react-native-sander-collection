@@ -1,17 +1,21 @@
-
 {
   "name": "react-native-collection",
   "version": "1.0.0",
-  "description": "",
+  "description": "原生使用collection ListView",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "collection"
   ],
-  "author": "",
-  "license": "",
+  "author": "sander90",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sander90/react-native-sander-collection/issues"
+  },
+  "homepage": "https://github.com/sander90/react-native-sander-collection#readme",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
